@@ -1,0 +1,21 @@
+{
+  "cognito": {
+  "poolId": "us-east-1:45f25176-0f92-4b5d-91ea-907eef85670c"
+  },
+  "lex": {
+    "botName": "TestBotTr",
+    "initialText": "You can ask me for help service provider. Just type \"your email\" or click on the mic and say it.",
+    "initialSpeechInstruction": "Say 'your email' to get started."
+  },
+  "polly": {
+    "voiceId": "Salli"
+  },
+  "ui": {
+    "parentOrigin": "",
+    "pageTitle": "Service Provider Bot",
+    "toolbarTitle": "SP brigtrex bot"
+  },
+  "recorder": {
+    "preset": "speech_recognition"
+  }
+}
