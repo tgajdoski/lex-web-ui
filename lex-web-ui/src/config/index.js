@@ -142,10 +142,10 @@ const configDefault = {
     // chat window text placeholder
     textInputPlaceholder: 'Type here',
 
-    toolbarColor: 'red',
+    toolbarColor: 'gray',
 
     // chat window title
-    toolbarTitle: 'Order Flowers',
+    toolbarTitle: 'ma ajde Flowers',
 
     // logo used in toolbar - also used as favicon not specificied
     toolbarLogo,

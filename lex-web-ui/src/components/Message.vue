@@ -107,7 +107,7 @@ export default {
 }
 
 .message-bot .chip {
-  background-color: #FFEBEE; /* red-50 from material palette */
+  background-color: #D4CBCC; /* red-50 from material palette */
 }
 
 .message-human .chip {

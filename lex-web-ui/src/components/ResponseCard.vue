@@ -1,6 +1,6 @@
 <template>
   <v-card>
-    <v-card-title v-if="responseCard.title.trim()" primary-title class="red lighten-5">
+    <v-card-title v-if="responseCard.title.trim()" primary-title class="gray lighten-5">
       <span class="headline">{{responseCard.title}}</span>
     </v-card-title>
     <v-card-text v-if="responseCard.subTitle">
@@ -30,7 +30,7 @@
     <v-card-actions v-if="responseCard.attachmentLinkUrl">
       <v-btn
         flat
-        class="red lighten-5"
+        class="gray lighten-5"
         tag="a"
         v-bind:href="responseCard.attachmentLinkUrl"
         target="_blank"
